@@ -1,6 +1,6 @@
-#Projeto 4º Workshop de Educação Continuada em TI da UNICID
+# Projeto 4º Workshop de Educação Continuada em TI da UNICID
 
-# PROTÓTIPO DE CASA INTELIGENTE COM IOT
+# Protótipo de Casa Inteligente com IoT
 
 Neste projeto, foi criado um prototipo de casa inteligente. Seus componentes são controlados via página web, que serve como interface para controlar de onde você quiser os componentes da maquete (via desktop ou mobile). Os componentes controlados são: 
 
